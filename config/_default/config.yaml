@@ -1,10 +1,10 @@
 baseURL: /
-title: Hugo Bootstrap Skeleton
+#title: 神道データベース
 theme: hugo-theme-bootstrap
-copyright: 'Copyright © 2016-{year} Razon Yang. All Rights Reserved.'
-defaultContentLanguage: en
-# hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
-# defaultContentLanguageInSubdir: true
+copyright: 'Copyright © {year} KUREHA. All Rights Reserved.'
+defaultContentLanguage: ja
+hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
+defaultContentLanguageInSubdir: true
 # disableLanguages:
 #  - fr
 #  - zh-cn
@@ -30,7 +30,7 @@ build:
   writeStats: true
 
 permalinks:
-  news: /news/:year/:month/:title/
+  news: /:slug
 
 # module:
   # proxy: https://goproxy.cn

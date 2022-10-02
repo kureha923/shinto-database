@@ -1,6 +1,27 @@
+ja:
+  languageName: 日本語
+  title: 神道データベース
+  hasCJKLanguage: true
+  weight: 1
+  author:
+    name: 紅葉 | KUREHA
+    bio: '神社巡りが趣味の一般人'
+    about: 
+  params:
+    dateFormat: '2006-01-02'
+
 en:
   languageName: English
-  weight: 1
+  title: Shinto Database
+  hasCJKLanguage: true
+  weight: 2
+  author:
+    name: KUREHA | 紅葉
+    bio: 'Hobbies: visiting shinto shrines and traveling'
+  params:
+    dateFormat: '2006-01-02'
+    # brand: Shinto Database
+
 
 zh-cn:
   languageName: 简体中文
