@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: 知識
 menu:
   main:
     weight: 1

@@ -1,5 +1,5 @@
 ---
-title: Archives
+title: アーカイブ
 menu:
   main:
     parent: blog

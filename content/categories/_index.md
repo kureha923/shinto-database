@@ -1,5 +1,5 @@
 ---
-title: Categories
+title: カテゴリ
 menu:
   main:
     parent: blog
