@@ -1,5 +1,5 @@
 ---
-title: 新闻
+title: News
 menu:
   main:
     weight: 1

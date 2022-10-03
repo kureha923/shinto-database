@@ -169,17 +169,17 @@ comment: false
   # lazyLoading: false # Default to true.
 
 search:
-  paginate: 5 # Pagination. Default to 10.
+  paginate: 10 # Pagination. Default to 10.
   # resultContentWordCount: 240 # The maximum word count of result content for displaying.
   # Fuse.js options. See https://fusejs.io/api/options.html.
   fuse:
     # ignoreLocation: true
     # location: 0
     # isCaseSensitive: false
-    # minMatchCharLength: 1
+    minMatchCharLength: 2
     threshold: 0.1
     # distance: 100
-    # useExtendedSearch: true
+    useExtendedSearch: true
 
 #docsearch:
   # https://docsearch.algolia.com/docs/api

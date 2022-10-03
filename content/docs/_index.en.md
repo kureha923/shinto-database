@@ -1,5 +1,5 @@
 ---
-title: 知識
+title: Knowledge
 menu:
   main:
     weight: 3
