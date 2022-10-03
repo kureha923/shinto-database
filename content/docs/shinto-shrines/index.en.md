@@ -15,3 +15,13 @@ categories: []
 tags: []
 images: []
 ---
+
+
+
+# 神社の基礎知識 {#ja-h1-jinja-kiso}
+
+## 社号
+
+{{< importcode "shago.ja.yaml" "yaml" >}}
+
+{{< importcode "jinja.ja.yaml" "yaml" >}}

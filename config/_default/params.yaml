@@ -33,7 +33,7 @@ palette: indigo # Default palette. Optional. You'll need to clear the browser ca
 #  - teal
 #  - yellow
 
-# color: dark # light, dark or auto. Default to auto.
+color: light # light, dark or auto. Default to auto.
 
 # fullWidth: true # Full width.
 # fixedHeader: false # Turn on/off fixed header.
@@ -239,7 +239,10 @@ pwa:
   # subPath: exampleSite
   # dateFormat: 02/01/2006, 15:04:05 PM
 
-#topAppBar:
+topAppBar:
+  colorToggle: false
+  coloredInDark: false
+  dropdownMenuToggle: false
   #social:
     #github: razonyang/hugo-theme-bootstrap
     #patreon: razonyang

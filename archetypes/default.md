@@ -4,15 +4,16 @@ title: {{ replace .Name "-" " " | title }}
 date: {{ .Date }}
 featured: false
 draft: true
-comment: true
+comment: false
 toc: true
-reward: true
+reward: false
 pinned: false
 carousel: false
-series:
+series: []
 categories: []
 tags: []
 images: []
+navWeight: 1000
 ---
 
 Summary.
