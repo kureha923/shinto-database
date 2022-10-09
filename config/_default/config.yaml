@@ -30,7 +30,11 @@ build:
   writeStats: true
 
 permalinks:
-  news: /:slug
+  posts: /:slug
 
 # module:
   # proxy: https://goproxy.cn
+
+services:
+  rss:
+    limit: 20

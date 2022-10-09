@@ -3,7 +3,7 @@ mainSections:
   - posts
   - news
 
-# titleSeparator: | # Title separator. Default to -.
+titleSeparator: | # Title separator. Default to -.
 
 description: Japan Shinto Shrines Database
 keywords: Japan Shinto Shrines Database
@@ -70,7 +70,7 @@ countTaxonomyPosts: true # Count posts of taxonomy.
 # sidebarTaxonomies: [categories, tags, series] # The order of taxonomies on the sidebar.
 
 # pinnedPost: false # Turn on/off pinned posts.
-pinnedPostCount: 3 # The number of pinned posts.
+pinnedPostCount: 1 # The number of pinned posts.
 
 # Custom CSS and JS
 customCSS:
@@ -254,3 +254,5 @@ docs:
 
 #feeds:
   # content: true
+
+summaryLength: 70
