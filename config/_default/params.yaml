@@ -200,8 +200,8 @@ search:
 #share:
 #addThis:  # AddThis pubid.
 
-#actionsPanel:
-# disabled: true
+actionsPanel:
+  disabled: true
 
 # Comment or remove this settings to disable font size switcher.
 fontSize:
