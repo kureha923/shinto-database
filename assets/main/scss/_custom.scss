@@ -7,6 +7,17 @@
   }
 }
 
+.post-content h3 {
+  padding: 0.5em;
+  /*文字周りの余白*/
+  color: #494949;
+  /*文字色*/
+  background: #fffaf4;
+  /*背景色*/
+  border-left: solid 5px #ffaf58;
+  /*左線（実線 太さ 色）*/
+}
+
 .post-content h2 {
   padding: 0.5em;
   /*文字周りの余白*/
@@ -16,4 +27,19 @@
   /*背景色*/
   border-left: solid 5px #ffaf58;
   /*左線（実線 太さ 色）*/
+  border-top: solid 5px #ffaf58;
+    /*左線（実線 太さ 色）*/
+}
+
+.post-content h4 {
+  position: relative;
+  padding: 0.25em 0;
+}
+
+.post-content h4:after {
+  content: "";
+  display: block;
+  height: 4px;
+  background: -webkit-linear-gradient(to right, rgb(255, 186, 115), #ffb2b2);
+  background: linear-gradient(to right, rgb(255, 186, 115), #ffb2b2);
 }
