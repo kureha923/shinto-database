@@ -1,8 +1,8 @@
 ---
 title: Shinto Shrines
 linkTitle: Shinto Shrines # The title of left navigation, optional.
-linkTitleIcon: <i class="fas fa-fw fa-globe"></i> # The icon of the link title, optional.
 navWeight: 990 # Upper weight gets higher precedence, optional.
+date: 2022-10-04T05:31:15+09:00
 featured: true
 draft: false
 comment: false
