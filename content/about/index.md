@@ -9,4 +9,4 @@ postDate = false
 readingTime = false
 +++
 
-This site is created for the purpose of gathering information about Shinto and shrines.
+このサイトは神道についての情報をまとめたサイトです。
